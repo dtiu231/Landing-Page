@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: -1px;
+    
+    
+    
+}
+
+.headerlogo {
+    color: white;
+    font font-family: "roboto";
+    font-size: 24px;
+    
+  
+
+   
+    
+ 
+}
+
+.header {
+    background-color: #1f2937 ;
+    height: 60px;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+.headerlinks {
+    display: flex;
+    justify-content: space-between;
+    gap: 38px;
+    color: #E5E7EB;
+}
+
