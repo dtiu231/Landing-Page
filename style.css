@@ -186,7 +186,7 @@ button {
 }
 
 .footer{
-    backface-color: #b28142;
+    background-color: #b28142;
     color: white;
     text-align: center;
     display: flex;
